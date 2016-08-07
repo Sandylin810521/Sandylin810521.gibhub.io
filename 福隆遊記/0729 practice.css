@@ -1,0 +1,132 @@
+    body {
+    
+        font-family: Verdana, Geneva, Arial, sans-serif;
+        font-size: 25px;
+    }
+
+   
+
+    header {
+        background-color: black;
+        color: white;
+        width: 100%;
+        font-size: 100%;
+        font-weight: bolder;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: left; 
+        font-family: 'Acme', sans-serif;
+
+    }
+    
+    footer {
+        background-color: black;
+        color: white;
+        width: 100%;
+        font-size: 100%;
+        font-weight: bolder;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: right;
+        font-family: 'Acme', sans-serif;
+    } 
+    
+    .Topic{
+        background-image: url('9.jpg');
+        background-size:cover;
+       
+     
+    }
+  
+    .LETS_TRAVEL_TO_FULUNG{
+        overflow:hidden;
+        font-family: 'Acme', sans-serif;
+        color: #000033;
+        font-size: 70px;
+        font-weight: normal;
+        height:200px;
+        line-height:200px;
+        text-align:center;
+   
+    }
+
+
+
+    
+    #FulungRockFestival {
+        padding: 10px;
+        font size: 200%;
+        font-family: 'Lobster', cursive;
+        border: solid red 2px;
+        letter-spacing: 2px
+        text-align:center;
+        line-height: 600px;
+    }
+   #OurJourney{
+        padding: 10px;
+        font size: 200%;
+        font-family: 'Lobster', cursive;
+        border: solid red 2px;
+        letter-spacing: 2px
+        text-align:center;
+        line-height: 600px;
+    }
+   #NanfangAo {
+        padding: 10px;
+        font size: 200%;
+        font-family: 'Lobster', cursive;
+        border: solid red 2px;
+        letter-spacing: 2px
+        text-align:center;
+        line-height: 600px;
+    }
+   #HostelInfo{
+        padding: 10px;
+        font size: 200%;
+        font-family: 'Lobster', cursive;
+        border: solid red 2px;
+        letter-spacing: 2px
+        text-align:center;
+        line-height: 600px;
+    }
+
+      
+    h1 {
+        padding: 10px;
+        width: 90%;
+        font size: 200%;
+        font-family: Arial;
+        border: solid red 2px;
+        text-align:center;
+    }
+    
+    .content {
+        padding: 10px;
+        width: 100%;
+        font size: 150%;
+        font-family: Arial;
+        border: solid red 2px;
+        text-align:center;
+    }  
+    .reminder {
+        padding: 25px;
+        width: 100%;
+        font size: 150%;
+        font-family: Arial;
+        border: solid red 2px;
+        text-align: left;
+    }  
+
+    .Ending {
+        padding: 10px;
+        width: 100%;
+        font size: 150%;
+        font-family: Arial;
+        border: solid red 2px;
+        letter-spacing: 2px
+        text-align:center;
+    }
+
+
+
+    
